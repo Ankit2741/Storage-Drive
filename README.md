@@ -1,5 +1,5 @@
 # Storage-Drive
-It is used to add, delete and download files and folders with a notepad built inside it for text files and an album built for photos.
+It is used to add, delete and download files and folders with a notepad built inside it for text files and an album built-in for photos.
 
 # Used Technologies
 1. HTML
