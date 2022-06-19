@@ -1,5 +1,5 @@
 # Storage-Drive
-A drive app which is used to add, download or delete files and folders with notepad built inside it for text files.
+It is used to add, delete and download files and folders with a notepad built inside it for text files and an album built for photos.
 
 # Used Technologies
 1. HTML
